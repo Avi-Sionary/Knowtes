@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Knowtes",
+"dataUrl": "BigBrainEnergy.data.unityweb",
+"wasmCodeUrl": "BigBrainEnergy.wasm.code.unityweb",
+"wasmFrameworkUrl": "BigBrainEnergy.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
